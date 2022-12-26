@@ -1,8 +1,10 @@
 <?php
 
+use PhpUnitTesting\Box;
+use PhpUnitTesting\User;
+
 require 'functions.php';
-require 'classes/Box.php';
-require 'classes/User.php';
+
 
 
 echo addNumbers(5,5);
