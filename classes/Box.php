@@ -1,5 +1,5 @@
 <?php
-
+namespace PhpUnitTesting;
 class Box
 {
     protected mixed $items = [];

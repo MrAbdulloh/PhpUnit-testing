@@ -1,4 +1,5 @@
 <?php
+namespace PhpUnitTesting;
 
 class User
 {
