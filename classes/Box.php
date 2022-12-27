@@ -2,7 +2,7 @@
 namespace PhpUnitTesting;
 class Box
 {
-    protected mixed $items = [];
+    public mixed $items = [];
 
 
     public function __construct($items = [])
